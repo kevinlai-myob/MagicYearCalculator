@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MagicYearCalculator.App.Tests
+namespace MagicYearCalculatorTests
 {
     public class MagicYearCalculator
     {

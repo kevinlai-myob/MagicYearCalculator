@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace MagicYearCalculator.App.Tests
+namespace MagicYearCalculatorTests
 {
     public class MagicYearCalculatorShould
     {   
